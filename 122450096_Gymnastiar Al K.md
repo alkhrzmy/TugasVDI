@@ -1,8 +1,5 @@
 # Tugas VDI – Resume Artikel "Making Data Visualization More Efficient and Effective: A Survey"
 Gymnastiar Al Khoarizmy - 122450096 - RC
-
-## Ringkasan Artikel "Making Data Visualization More Efficient and Effective: A Survey" (Qin, 2019)
-
 ### 1. Introduction
 Bagian Pendahuluan dari artikel ini menyoroti pentingnya visualisasi data dalam dunia bisnis yang semakin bergantung pada data. Seiring dengan meningkatnya volume data, organisasi semakin sering menggunakan visualisasi data untuk membantu proses pengambilan keputusan. Tujuan utama visualisasi data adalah mengubah data yang abstrak menjadi bentuk visual seperti grafik dan diagram, sehingga lebih mudah dipahami oleh analis dan pengambil keputusan dalam memahami data yang kompleks secara intuitif.
 
