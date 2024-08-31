@@ -1,2 +1,0 @@
-# TugasVDI
-Pengumpulan Tugas VDI
